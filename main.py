@@ -4,5 +4,9 @@ operacja = input('podaj operacje: ')
 
 if operacja == '+':
     print(f'{a} + {b} = {a+b}')
- elif operacja == '-':
+elif operacja == '-':
     print(f'{a} - {b} = {a - b}' )
+elif operacja == '*':
+    print(f'{a} * {b} = {a*b}')
+elif operacja == '/':
+    print(f'{a} / {b} = {a/b}')

@@ -22,3 +22,6 @@ elif operacja == '/':
         print('Nie mozna dzielic przez 0')
     else:
         print(f'{a} / {b} = {a/b}')
+        
+    
+    

@@ -1,3 +1,12 @@
+print ("Aby korzystać z kalkulatora, wprowadź dwie liczby a następnie podaj operację, jaką chcesz wykonać")
+
+
+
+
+
+
+
+
 a = float(input('podaj A: '))
 b = float(input('podaj B: '))
 operacja = input('podaj operacje: ')

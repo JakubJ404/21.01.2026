@@ -19,6 +19,9 @@ elif operacja == '*':
     print(f'{a} * {b} = {a*b}')
 elif operacja == '/':
     if b == 0:
-        print("Nie można dzielić przez 0")
-    print(f'{a} / {b} = {a/b}')
+        print('Nie mozna dzielic przez 0')
+    else:
+        print(f'{a} / {b} = {a/b}')
+        
+    
     
